@@ -1,5 +1,3 @@
-# bet-site
+# verificador-jogos
 
-Projeto HTML/CSS de um site de apostas esportivas.
-
-Preview: https://www.betslink.club/bet-site/
+Este é um bot feito para comparar os horários dos jogos de um determinado site, com os horários desses mesmos jogos fornecidos pelo Google, a fim de encontrar possíveis erros e corrigi-los.
