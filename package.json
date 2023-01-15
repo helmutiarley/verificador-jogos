@@ -1,0 +1,23 @@
+{
+  "name": "bet-site",
+  "version": "1.0.0",
+  "description": "Projeto HTML/CSS de um site de apostas esportivas.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helmutiarley/bet-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helmutiarley/bet-site/issues"
+  },
+  "homepage": "https://github.com/helmutiarley/bet-site#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
