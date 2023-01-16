@@ -4,7 +4,7 @@ const url = 'https://recsportspix.bet/apostar';
 const google = 'https://www.google.com.br/';
 
 (async () => {
-    const browser = await pup.launch({headless: false})
+    const browser = await pup.launch({headless: true})
     const page = await browser.newPage()
     console.log('Iniciei!')
 
