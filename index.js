@@ -26,7 +26,7 @@ const google = 'https://www.google.com.br/';
         i+=2;
     }
 
-    console.log(toSearch);
+    // console.log(toSearch);
 
     console.log('Iniciando busca no Google...');
 
