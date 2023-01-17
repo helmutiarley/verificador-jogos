@@ -1,5 +1,6 @@
 const pup = require('puppeteer');
 
+const url = 'https://cliente1.gbsistemas.net/apostar';
 const google = 'https://www.google.com.br/';
 
 (async () => {
