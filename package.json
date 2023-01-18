@@ -1,7 +1,7 @@
 {
   "name": "bet-site",
   "version": "1.0.0",
-  "description": "Projeto HTML/CSS de um site de apostas esportivas.",
+  "description": "Verificador de jogos.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
